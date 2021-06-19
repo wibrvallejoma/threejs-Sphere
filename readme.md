@@ -1,5 +1,7 @@
 # Three.js Starter
 
+![Animation2](https://user-images.githubusercontent.com/41757307/122651976-68e1e180-d0f9-11eb-87e0-7516ddcb8231.gif)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
